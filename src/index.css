@@ -15,7 +15,7 @@ body {
   font-style: normal;
   font-weight: 500;
 
-  background-color: #242424;
+  background-color: #06bfe8;
 
   box-sizing: border-box;
 }
@@ -29,7 +29,6 @@ body {
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
