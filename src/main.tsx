@@ -4,12 +4,12 @@ import { createRoot } from 'react-dom/client'
 
 import './index.css'
 
-import Login from './presentation/pages/Login'
+import Router from './services/routes'
 
 const rootComponent = document.getElementById('root') as HTMLElement
 
 createRoot(rootComponent).render(
   <React.StrictMode>
-    <Login />
+    <Router />
   </React.StrictMode>
 )

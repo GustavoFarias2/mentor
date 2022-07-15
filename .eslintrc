@@ -45,7 +45,8 @@
     "tailwindcss/no-custom-classname": [
       "warn",
       {
-        "whitelist": ["dark"]
+        "whitelist": ["dark", "mono-spaced"],
+        "config": "tailwind.config.cjs"
       }
     ],
     "tailwindcss/no-contradicting-classname": "error",
